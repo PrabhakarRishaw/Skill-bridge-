@@ -123,3 +123,5 @@ python manage.py runserver
 ```
 
 ```
+<img width="1547" height="833" alt="Screenshot 2026-06-27 150158" src="https://github.com/user-attachments/assets/0037d632-58c9-4f3f-ba16-7b30af5d50dc" />
+
