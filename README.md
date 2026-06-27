@@ -1,3 +1,4 @@
+
 # 🚀 SkillBridge – Student Skill Exchange & Mentorship Platform
 
 <p align="center">
@@ -64,10 +65,17 @@
 
 ---
 
-## 🏗️ Production Setup & Containerization
+## 🏗️ Local Deployment & Configuration
 
-### 1. Environment Configuration
-Create a `.env` file in the project root:
+### 1. Clone the Project
+```bash
+git clone [https://github.com/your-username/SkillBridge.git](https://github.com/your-username/SkillBridge.git)
+cd SkillBridge
+
+```
+
+### 2. Environment Configuration
+
 ```env
 DEBUG=False
 SECRET_KEY=production_crypto_safe_key
@@ -76,22 +84,42 @@ DB_USER=postgres_admin
 DB_PASSWORD=secure_cluster_password
 DB_HOST=localhost
 REDIS_URL=redis://127.0.0.1:6379/0
-# Clone and navigate to cluster root
-git clone [https://github.com/your-username/SkillBridge.git](https://github.com/your-username/SkillBridge.git)
-cd SkillBridge
----
-# Spin up microservices / Virtual environment
+
+```
+
+### 3. Setup Virtual Environment & Install Dependencies
+
+```bash
 python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install --upgrade pip
 pip install -r requirements.txt
----
-# Database sync & Server allocation
+
+```
+
+### 4. Database Sync & Server Allocation
+
+```bash
 python manage.py migrate
 python manage.py runserver
+
+```
+
 ---
 
-### 🔥 Is Naye Layout Se Kya Impact Padega?
-1. **GitHub Badges:** Sabse upar clean **For-the-badge** styles use kiye hain, jo badi tech companies ke open-source projects me milte hain.
-2. **Tables and Quotes:** Markdown Tables aur Blockquotes (`>`) ka perfect balance hai jo poore text ko scannable banata hai.
-3. **Advanced Terminology:** Isme plain terms ki jagah production-level keywords use kiye hain (jaise *State-Machine*, *Pub/Sub*, *Granular RBAC*, *Decoupled Architecture*). Jab koi technical interviewer ise padhega, use turant pata chal jayega ki aapko development ki deep knowledge hai!
+## 🚀 Scalability Roadmap (AI Features)
+
+* [ ] **Proximity Skill Matching Engine:** Implementing vector tracking using Cosine Similarity to automatically pair ideal mentors and mentees.
+* [ ] **RAG-Driven Quiz Compiler:** Leveraging LLMs to scrape uploaded PDF resources and generate dynamic evaluation check-points.
+* [ ] **Adaptive Gamification Loops:** Dynamically adjusting user tier badging based on active teaching hours and positive peer evaluations.
+
+---
+
+## 👨‍💻 Developed By
+
+* **Rishaw Prabhakar** *B.Tech in Computer Science & Engineering* Arya College of Engineering and IT
+
+
+```
+
+```
