@@ -117,8 +117,22 @@ python manage.py runserver
 
 ## 👨‍💻 Developed By
 
-* **Rishaw Prabhakar** *B.Tech in Computer Science & Engineering* Arya College of Engineering and IT
+* **Rishaw Prabhakar**
+* B.Tech in Computer Science & Engineering*
+  *   Arya College of Engineering and IT
 
+### Contributors ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/KhushiKaushik701">
+        <img src="https://github.com/KhushiKaushik701.png" width="100px;" alt="Khushi Kaushik Profile"/><br />
+        <sub><b>Khushi Kaushik</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ```
 
