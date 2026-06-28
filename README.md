@@ -9,7 +9,6 @@
 </p>
 
 ---
-
 ## 🎯 Project Overview
 
 **SkillBridge** is a decentralized, peer-to-peer (P2P) learning ecosystem engineered to bypass traditional classroom limitations. The platform allows students to autonomously trade technical skills, claim mentorship spaces, manage distributed study groups, and track automated milestones via an interactive evaluation engine.
