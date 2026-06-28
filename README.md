@@ -122,26 +122,12 @@ python manage.py runserver
 
 ### Contributors ✨
 
-<table>
-  <tr>
-    <td align="center" width="200px">
-      <a href="https://github.com/KhushiKaushik701">
-        <img src="https://github.com/KhushiKaushik701.png" width="100px;" alt="Khushi Kaushik Profile"/><br />
-        <sub><b>Khushi Kaushik</b></sub>
-      </a>
-      <br />
-      <small><b>Frontend Developer</b><br />(UI/UX, Integration & Client-side Logic)</small>
-    </td>
-    <td align="center" width="200px">
-      <a href="https://github.com/sukhdevdogiyal">
-        <img src="https://github.com/sukhdevdogiyal.png" width="100px;" alt="Sukhdev Dogiyal Profile"/><br />
-        <sub><b>Sukhdev Dogiyal</b></sub>
-      </a>
-      <br />
-      <small><b>Backend Contributor</b><br />(Core Architecture & System Modules)</small>
-    </td>
-  </tr>
-</table>
+We would like to acknowledge the invaluable contributions of the following team members who helped bring this platform to life:
+
+*   **Khushi Kaushik** ([@KhushiKaushik701](https://github.com/KhushiKaushik701))  
+    **Role:** Lead Frontend Developer  
+    * **Key Contributions:** Engineered the entire user interface from scratch, crafted responsive UI/UX workflows, managed client-side state, and handled seamless API integrations with the backend engine.
+
 
 ---
 
