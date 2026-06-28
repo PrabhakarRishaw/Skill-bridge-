@@ -114,28 +114,39 @@ python manage.py runserver
 * [ ] **Adaptive Gamification Loops:** Dynamically adjusting user tier badging based on active teaching hours and positive peer evaluations.
 
 ---
+---
 
 ## 👨‍💻 Developed By
 
-* **Rishaw Prabhakar**
-* B.Tech in Computer Science & Engineering*
-  *   Arya College of Engineering and IT
+* **Rishaw Prabhakar** *B.Tech in Computer Science & Engineering* *Arya College of Engineering and IT*
 
 ### Contributors ✨
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="200px">
       <a href="https://github.com/KhushiKaushik701">
         <img src="https://github.com/KhushiKaushik701.png" width="100px;" alt="Khushi Kaushik Profile"/><br />
         <sub><b>Khushi Kaushik</b></sub>
       </a>
+      <br />
+      <small><b>Frontend Developer</b><br />(UI/UX, Integration & Client-side Logic)</small>
+    </td>
+    <td align="center" width="200px">
+      <a href="https://github.com/sukhdevdogiyal">
+        <img src="https://github.com/sukhdevdogiyal.png" width="100px;" alt="Sukhdev Dogiyal Profile"/><br />
+        <sub><b>Sukhdev Dogiyal</b></sub>
+      </a>
+      <br />
+      <small><b>Backend Contributor</b><br />(Core Architecture & System Modules)</small>
     </td>
   </tr>
 </table>
 
-```
+---
 
-```
-<img width="1547" height="833" alt="Screenshot 2026-06-27 150158" src="https://github.com/user-attachments/assets/0037d632-58c9-4f3f-ba16-7b30af5d50dc" />
+## 📸 Application Preview
 
+<p align="center">
+  <img width="100%" alt="SkillBridge App Screenshot" src="https://github.com/user-attachments/assets/0037d632-58c9-4f3f-ba16-7b30af5d50dc" />
+</p>
